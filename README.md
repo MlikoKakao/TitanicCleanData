@@ -30,3 +30,7 @@ This project contains a cleaned version of the Titanic dataset and a Jupyter not
    ```bash
    git clone https://github.com/yourusername/titanic-analysis.git
    cd titanic-analysis
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Launch the notebook:
+   jupyter notebook titanic-1mk.ipynb
